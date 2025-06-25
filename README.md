@@ -1,11 +1,11 @@
-<div align="center">
-  ![Header](./header.png)
+<div align="start">
+  <img src="./header.png" alt="Hi I'm Rik - Full-Stack Developer Banner" width="100%"/>
 </div>
 
-<h1 align="center">Hi 👋, I'm Rik</h1>
-<h3 align="center">A passionate full-stack developer from The Netherlands with a love for building innovative solutions.</h3>
+<h1 align="start">Hi 👋, I'm Rik</h1>
+<h3 align="start">A passionate full-stack developer from The Netherlands with a love for building innovative solutions.</h3>
 
-<p align="center">
+<p align="start">
   <a href="https://breezeradio.nl" target="_blank">
     <img alt="Website" src="https://img.shields.io/badge/Website-Breeze%20Radio-blue?style=for-the-badge&logo=website">
   </a>
@@ -27,7 +27,7 @@
 
 ### 💻 Tech Stack
 
-<p align="center">
+<p align="start">
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
@@ -50,7 +50,7 @@
 ---
 ### 📊 GitHub Stats
 
-<p align="center">
+<p align="start">
   <img 
     src="https://readme-stats-git-main-sonicverse.vercel.app/api?username=rikvisser-dev&show_icons=true&theme=radical&count_private=true" 
     alt="Rik's GitHub Stats" 
