@@ -1,64 +1,28 @@
-<div align="start">
-  <img src="./header.png" alt="Hi I'm Rik - Full-Stack Developer Banner" width="100%"/>
+![👋 Hi, my name is Rik Visser](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
+
+<div id="toc">
+  <ul align="left" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi, my name is Rik Visser
+      </h1>
+    </summary>
+  </ul>
 </div>
 
-<h1 align="start">Hi 👋, I'm Rik</h1>
-<h3 align="start">A passionate full-stack developer from The Netherlands with a love for building innovative solutions.</h3>
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://www.instagram.com/rikvisser-dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/rikvisser-dev" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-<p align="start">
-  <a href="https://breezeradio.nl" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/Website-Breeze%20Radio-blue?style=for-the-badge&logo=website">
-  </a>
-  <a href="mailto:rik@sonicverse.nl">
-    <img alt="Email" src="https://img.shields.io/badge/Email-rik@sonicverse.nl-green?style=for-the-badge&logo=gmail">
-  </a>
-</p>
+ **<h3 align="left">🚀 Passionate full-stack developer, creating robust and scalable web applications and mobile apps. Skilled in both front-end and back-end technologies, with a love for good UX and great performance.</h3>**
 
----
+**<h3 align="left">Rapid Fire</h3>**
 
-### 📌 About Me
+- 💼 I'm currently working on: **A webapp for radiostation content-prep 📻**
+- 🌱 I'm currently learning: **React Native 📱**
+- 💬 Ask me about: **Next.js, React, Node.js, PostgreSQL, and radio-broadcasting 💡**
+- ⚡ Fun fact: **I'm also a radio-presenter on Breeze Radio 🎵**
 
-- 🔭 I’m currently working on **[Breeze Radio](https://breezeradio.nl)**, developing and maintaining the entire tech stack.
-- 🌱 I’m currently diving deeper into **Swift** to build beautiful native iOS applications.
-- 💬 Ask me about anything related to **full-stack development** or **custom solutions for radio stations**.
-- ⚡ Fun fact: When I'm not coding, you can find me behind the microphone as a **radio DJ**!
+ **<h3 align="left">Skills</h3>**
 
----
+<div style="display: flex; flex-wrap: wrap; gap: 12px; justify-content: left;"><img src="https://img.shields.io/badge/JavaScript-F7DF1C?logo=javascript&logoColor=white" height="32" alt="JavaScript" style="margin-right: 12px"> <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white" height="32" alt="Tailwind CSS" style="margin-right: 12px"> <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB" height="32" alt="React" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Node.js-8CC84B?logo=node.js&logoColor=white" height="32" alt="Node.js" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" height="32" alt="Express" style="margin-right: 12px"> <img src="https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="32" alt="Prisma" style="margin-right: 12px"> <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" height="32" alt="Swift" style="margin-right: 12px"></div>
 
-### 💻 Tech Stack
-
-<p align="start">
-  <a href="https://www.javascript.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/></a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/></a>
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
-  <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/></a>
-</p>
-
----
-### 📊 GitHub Stats
-
-<p align="start">
-  <img 
-    src="https://readme-stats-git-main-sonicverse.vercel.app/api?username=rikvisser-dev&show_icons=true&theme=radical&count_private=true" 
-    alt="Rik's GitHub Stats" 
-    width="48%"
-  />
-  <img 
-    src="https://readme-stats-git-main-sonicverse.vercel.app/api/top-langs/?username=rikvisser-dev&layout=compact&theme=radical&count_private=true" 
-    alt="Top Languages" 
-    width="48%"
-  />
-</p>
