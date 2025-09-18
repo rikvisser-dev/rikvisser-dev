@@ -1,5 +1,3 @@
-![👋 Hi, my name is Rik Visser](https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif)
-
 <div id="toc">
   <ul align="left" style="list-style: none">
     <summary>
@@ -9,9 +7,6 @@
     </summary>
   </ul>
 </div>
-
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://www.instagram.com/rikvisser-dev" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://twitter.com/rikvisser-dev" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=X&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
  **<h3 align="left">🚀 Passionate full-stack developer, creating robust and scalable web applications and mobile apps. Skilled in both front-end and back-end technologies, with a love for good UX and great performance.</h3>**
 
