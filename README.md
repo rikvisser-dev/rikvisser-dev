@@ -1,1 +1,1 @@
-![rikvisser-dev's GitHub Banner](https://raw.githubusercontent.com/rikvisser-dev/rikvisser-dev/main/banner.png)
+![rikvisser-dev's GitHub Banner](https://raw.githubusercontent.com/rikvisser-dev/rikvisser-dev/main/banner-v2.png)
