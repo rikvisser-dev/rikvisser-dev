@@ -1,0 +1,19 @@
+README.md
+  s_a9866b37c94939::t_9ea6533a7b6311 36
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "03774e2496d1e41844a142c76abd94ee8e5d538d",
+  "prompts": {},
+  "sessions": {
+    "s_a9866b37c94939": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c82cb08a-abc2-4ea8-b83c-b29d0a4fdf7e",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Rik Visser <rik@rivi.software>"
+    }
+  }
+}
