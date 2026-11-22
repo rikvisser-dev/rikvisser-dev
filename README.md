@@ -33,7 +33,7 @@ TIME   SEGMENT                      NOTES
 ### Studio gear
 
 `TypeScript` `Next.js` `Astro` `Postgres` `Drizzle` `Python` `Liquidsoap`
-`Icecast` `Swift` `Cloudflare Workers`
+`Icecast` `Swift` `Rust` `Cloudflare Workers`
 
 ### Request line
 
